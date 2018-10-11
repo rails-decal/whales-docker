@@ -15,6 +15,7 @@ RUN apk add --no-cache \
   libxml2-dev \
   libxslt-dev \
   postgresql-dev \
+  sqlite-dev \
   tzdata \
   busybox-extras \
   bash \
